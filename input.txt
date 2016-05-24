@@ -1,0 +1,6 @@
+ls | grep fork
+ls
+ls | grep fork
+ls
+ls | grep fork
+ls
